@@ -1,7 +1,7 @@
 # PGApp_beta
 Beta version of the PG App
 
-#PayingGuest is an Android Mobile Application which is designed for people to search Paying Guest in Delhi region in an efficient way through this app rather than directly visiting every Paying Guests one by one. Here client can find pg's in any area or near any College quickly and easily. You can also use this app to find food services/tiffin services in any area or locality.
+#PayingGuest is an Android Application which is designed for people to search Paying Guest in Delhi region in an efficient way rather than directly visiting every Paying Guests one by one. Here client can find pg's in any area or near any College quickly and easily. You can also use this app to find food services/tiffin services in any area or locality.
 
 
 
